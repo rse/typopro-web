@@ -1,5 +1,5 @@
 
-TypoPRO (Web)
+TypoPRO (WEB)
 =============
 
 http://typopro.org/
