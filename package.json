@@ -1,0 +1,22 @@
+{
+    "name":        "typopro-web",
+    "version":     "3.0.0",
+    "description": "Fonts for Professional Typography (Web Font Formats)",
+    "homepage":    "https://github.com/rse/typopro-web",
+    "license":     "MIT AND Apache AND OFL AND CC0",
+    "author": {
+        "name":    "Ralf S. Engelschall",
+        "email":   "rse@engelschall.com",
+        "url":     "http://engelschall.com"
+    },
+    "keywords": [
+        "font", "typography", "ttf", "otf", "woff", "eot"
+    ],
+    "repository": {
+        "type":    "git",
+        "url":     "git://github.com/rse/typopro-web.git"
+    },
+    "bugs": {
+        "url":     "http://github.com/rse/typopro/issues"
+    }
+}
