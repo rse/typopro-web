@@ -1,7 +1,7 @@
 {
     "name":        "typopro-web",
-    "version":     "3.0.0",
-    "description": "Fonts for Professional Typography (Web Font Formats)",
+    "version":     "3.0.1",
+    "description": "Fonts for Professional Typography (WEB)",
     "homepage":    "https://github.com/rse/typopro-web",
     "license":     "MIT AND Apache AND OFL AND CC0",
     "author": {
