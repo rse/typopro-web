@@ -130,16 +130,16 @@ if (process.argv.length !== 3) {
 if (process.argv[2] === "install") {
     /*  installation procedure  */
     if (!fs.existsSync(destdir3)) {
-        console.log("++ fetching local TypoPRO distribution content");
+        console.log("++ fetching externalized TypoPRO distribution content");
         var url = pkg.homepage + "/archive/" + pkg.version + ".tar.gz";
         downloadData(url).then(function (data) {
-            console.log("++ unpacking local TypoPRO distribution content");
+            console.log("++ unpacking externalized TypoPRO distribution content");
             fs.writeFileSync(destfile, data, { encoding: null });
             extractTarball(destfile, destdir1, 1).then(function () {
                 fs.renameSync(destdir2, destdir3);
                 rimraf.sync(destdir1);
                 fs.unlinkSync(destfile);
-                console.log("-- OK: local TypoPRO distribution content now available");
+                console.log("-- OK: installed local copy of externalized TypoPRO distribution content");
             }, function (error) {
                 console.log(chalk.red("** ERROR: failed to extract: " + error));
             });
@@ -151,7 +151,7 @@ if (process.argv[2] === "install") {
 else if (process.argv[2] === "uninstall") {
     /*  uninstallation procedure  */
     if (fs.existsSync(destdir3)) {
-        console.log("++ deleting local TypoPRO distribution content");
+        console.log("++ deleting local copy of externalized TypoPRO distribution content");
         rimraf(destdir, function (error) {
             if (error !== null)
                 console.log("** ERROR: " + error);
