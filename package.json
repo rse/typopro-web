@@ -3,7 +3,7 @@
     "version":     "3.0.1",
     "description": "Fonts for Professional Typography (WEB)",
     "homepage":    "https://github.com/rse/typopro-web",
-    "license":     "MIT AND Apache AND OFL AND CC0",
+    "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
     "author": {
         "name":    "Ralf S. Engelschall",
         "email":   "rse@engelschall.com",
@@ -18,5 +18,16 @@
     },
     "bugs": {
         "url":     "http://github.com/rse/typopro/issues"
+    },
+    "dependencies": {
+        "promise":   "~7.0.1",
+        "request":   "~2.57.0",
+        "sprintfjs": "~1.1.9",
+        "tar":       "~2.1.1",
+        "rimraf":    "~2.4.0"
+    },
+    "scripts": {
+        "install":   "node ./typopro-npm.js install",
+        "uninstall": "node ./typopro-npm.js uninstall"
     }
 }
