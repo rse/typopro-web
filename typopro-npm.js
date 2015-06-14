@@ -148,7 +148,7 @@ else if (process.argv[2] === "uninstall") {
     /*  uninstallation procedure  */
     if (fs.existsSync(destdir3)) {
         console.log("++ deleting local copy of externalized TypoPRO distribution content");
-        rimraf(destdir, function (error) {
+        rimraf(destdir3, function (error) {
             if (error !== null)
                 console.log("** ERROR: " + error);
             else
