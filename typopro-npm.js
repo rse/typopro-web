@@ -83,9 +83,7 @@ var downloadData = function (url) {
             }
             var req = request(options, function (error, response, body) {
                 if (!error && response.statusCode === 200) {
-                    process.stdout.clearLine();
-                    process.stdout.cursorTo(0);
-                    process.stdout.write("-- download: " + filesize(body.length) + " bytes received.\n");
+                    process.stdout.write("\r-- download: " + filesize(body.length) + " bytes received.     \n");
                     resolve(body);
                 }
                 else
@@ -96,9 +94,7 @@ var downloadData = function (url) {
             });
             req.on("data", function (data) {
                 len += data.length;
-                process.stdout.clearLine();
-                process.stdout.cursorTo(0);
-                process.stdout.write(sprintf("-- download: %10s bytes received... ", filesize(len)));
+                process.stdout.write(sprintf("\r-- download: %10s bytes received... ", filesize(len)));
             });
         });
     });
