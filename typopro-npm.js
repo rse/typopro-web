@@ -53,7 +53,7 @@ var downloadData = function (url) {
             url: url,
             encoding: null,
             headers: {
-                "User-Agent": "typopro-web (typopro-npm.js:install)"
+                "User-Agent": "NPM/TypoPRO (typopro-npm.js)"
             }
         };
         (new promise(function (resolve /*, reject  */) {
