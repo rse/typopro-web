@@ -1,6 +1,6 @@
 {
     "name":        "typopro-web",
-    "version":     "3.2.3",
+    "version":     "3.2.4",
     "description": "Fonts for Professional Typography (WEB)",
     "homepage":    "https://github.com/rse/typopro-web",
     "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
@@ -20,11 +20,11 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies": {
-        "promise":   "~7.0.3",
-        "request":   "~2.58.0",
-        "sprintfjs": "~1.1.9",
+        "promise":   "~7.0.4",
+        "request":   "~2.60.0",
+        "sprintfjs": "~1.2.0",
         "tar":       "~2.1.1",
-        "rimraf":    "~2.4.1"
+        "rimraf":    "~2.4.2"
     },
     "scripts": {
         "install":   "node ./typopro-npm.js install",
