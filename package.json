@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "promise":   "~7.0.4",
-        "request":   "~2.60.0",
+        "request":   "~2.61.0",
         "sprintfjs": "~1.2.0",
         "tar":       "~2.1.1",
         "rimraf":    "~2.4.2"
