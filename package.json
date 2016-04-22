@@ -30,5 +30,10 @@
     "scripts": {
         "install":   "node ./typopro-npm.js install",
         "uninstall": "node ./typopro-npm.js uninstall"
+    },
+    "devDependencies": {
+        "co": "^4.6.0",
+        "fs-promise": "^0.5.0",
+        "glob": "^7.0.3"
     }
 }
