@@ -21,10 +21,10 @@
     },
     "dependencies": {
         "promise":   "~7.1.1",
-        "request":   "~2.72.0",
+        "request":   "~2.73.0",
         "sprintfjs": "~1.2.3",
         "tar":       "~2.2.1",
-        "rimraf":    "~2.5.2"
+        "rimraf":    "~2.5.3"
     },
     "scripts": {
         "install":   "node ./typopro-npm.js install",
