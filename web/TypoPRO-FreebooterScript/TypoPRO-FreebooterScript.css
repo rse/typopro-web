@@ -1,0 +1,13 @@
+/* TypoPRO Fira Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Freebooter Script';
+    src:          url('TypoPRO-FreebooterScript-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-FreebooterScript-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FreebooterScript-Regular.woff') format('woff'),
+                  url('TypoPRO-FreebooterScript-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
