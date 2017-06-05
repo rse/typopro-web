@@ -105,7 +105,7 @@ var extractTarball = function (tarball, destdir, stripdirs) {
     return new promise(function (resolve, reject) {
         fs.createReadStream(tarball)
             .pipe(zlib.createGunzip())
-            .pipe(tar.Extract({ path: destdir, strip: stripdirs }))
+            .pipe(tar.extract({ cwd: destdir, strip: stripdirs }))
             .on("error", function (error) { reject(error); })
             .on("end", function () { resolve(); });
     });
