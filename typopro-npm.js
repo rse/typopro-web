@@ -108,7 +108,7 @@ var extractTarball = function (tarball, destdir, stripdirs) {
             .pipe(zlib.createGunzip())
             .pipe(tar.extract({ cwd: destdir, strip: stripdirs }))
             .on("error", function (error) { reject(error); })
-            .on("end", function () { resolve(); });
+            .on("end", function () { setTimeout(function () { resolve(); }, 500); });
     });
 };
 
@@ -139,10 +139,10 @@ if (process.argv[2] === "install") {
                 fs.unlinkSync(destfile);
                 console.log("-- OK: installed local copy of externalized TypoPRO distribution content");
             }, function (error) {
-                console.log(chalk.red("** ERROR: failed to extract: " + error));
+                console.log("** ERROR: failed to extract: " + error);
             });
-        }, function (error) {
-            console.log(chalk.red("** ERROR: failed to download: " + error));
+        }).catch(function (error) {
+            console.log("** ERROR: failed to download: " + error);
         });
     }
 }
