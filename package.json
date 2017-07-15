@@ -20,9 +20,9 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies": {
-        "promise":   "~7.1.1",
+        "promise":   "~8.0.1",
         "request":   "~2.81.0",
-        "sprintfjs": "~1.2.5",
+        "sprintfjs": "~1.2.6",
         "tar":       "~3.1.5",
         "mkdirp":    "~0.5.1",
         "rimraf":    "~2.6.1"
