@@ -108,7 +108,7 @@ var extractTarball = function (tarball, destdir, stripdirs) {
             .pipe(zlib.createGunzip())
             .pipe(tar.extract({ cwd: destdir, strip: stripdirs }))
             .on("error", function (error) { reject(error); })
-            .on("end", function () { setTimeout(function () { resolve(); }, 500); });
+            .on("close", function () { setTimeout(function () { resolve(); }, 500); });
     });
 };
 
