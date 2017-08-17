@@ -61,15 +61,28 @@ function* publishPackage (dirname) {
     JSON.stringify(pkg)
   );
 
+  function npmGrant(cb) {
+    npm.commands.access(['grant', 'read-write', 'typopro:developers', pkg.name], cb)
+  }
+
   function npmPublish(cb) {
     npm.commands.publish([dirname], cb);
   }
   console.log(`Publishing ${dirname}`);
   try {
+    try {
+      yield npmGrant;
+    } catch(e) {
+      // ignore.
+    }
     yield npmPublish;
     console.log(`${dirname} published`);
   } catch(e) {
-    console.log(e);
+    if (/cannot publish over/.test(e.message)) {
+      console.log(`${dirname} was published`);
+    } else {
+      console.log(e);
+    }
   }
 }
 
