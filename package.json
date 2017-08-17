@@ -1,34 +1,45 @@
 {
-    "name":        "typopro-web",
-    "version":     "3.7.5",
+    "name": "typopro-web",
+    "version": "3.7.5",
     "description": "Fonts for Professional Typography (WEB)",
-    "homepage":    "https://github.com/rse/typopro-web",
-    "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
+    "homepage": "https://github.com/rse/typopro-web",
+    "license": "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
     "author": {
-        "name":    "Ralf S. Engelschall",
-        "email":   "rse@engelschall.com",
-        "url":     "http://engelschall.com"
+        "name": "Ralf S. Engelschall",
+        "email": "rse@engelschall.com",
+        "url": "http://engelschall.com"
     },
     "keywords": [
-        "font", "typography", "ttf", "otf", "woff", "eot"
+        "font",
+        "typography",
+        "ttf",
+        "otf",
+        "woff",
+        "eot"
     ],
     "repository": {
-        "type":    "git",
-        "url":     "git://github.com/rse/typopro-web.git"
+        "type": "git",
+        "url": "git://github.com/rse/typopro-web.git"
     },
     "bugs": {
-        "url":     "http://github.com/rse/typopro/issues"
+        "url": "http://github.com/rse/typopro/issues"
     },
     "dependencies": {
-        "promise":   "~8.0.1",
-        "request":   "~2.81.0",
+        "mkdirp": "~0.5.1",
+        "promise": "~8.0.1",
+        "request": "~2.81.0",
+        "rimraf": "~2.6.1",
         "sprintfjs": "~1.2.6",
-        "tar":       "~3.1.9",
-        "mkdirp":    "~0.5.1",
-        "rimraf":    "~2.6.1"
+        "tar": "~3.1.9"
     },
     "scripts": {
-        "install":   "node ./typopro-npm.js install",
+        "install": "node ./typopro-npm.js install",
         "uninstall": "node ./typopro-npm.js uninstall"
+    },
+    "devDependencies": {
+        "co": "^4.6.0",
+        "fs-promise": "^0.5.0",
+        "glob": "^7.0.3",
+        "npm": "^5.3.0"
     }
 }
