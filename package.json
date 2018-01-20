@@ -22,8 +22,8 @@
     "dependencies": {
         "promise":   "~8.0.1",
         "request":   "~2.83.0",
-        "sprintfjs": "~1.2.6",
-        "tar":       "~4.0.2",
+        "sprintfjs": "~1.2.7",
+        "tar":       "~4.3.0",
         "mkdirp":    "~0.5.1",
         "rimraf":    "~2.6.2"
     },
