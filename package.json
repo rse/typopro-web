@@ -20,12 +20,12 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies": {
-        "promise":   "~8.0.1",
-        "request":   "~2.87.0",
-        "sprintfjs": "~1.2.9",
-        "tar":       "~4.4.4",
-        "mkdirp":    "~0.5.1",
-        "rimraf":    "~2.6.2"
+        "promise":   "8.0.1",
+        "request":   "2.87.0",
+        "sprintfjs": "1.2.9",
+        "tar":       "4.4.4",
+        "mkdirp":    "0.5.1",
+        "rimraf":    "2.6.2"
     },
     "scripts": {
         "install":   "node ./typopro-npm.js install",
