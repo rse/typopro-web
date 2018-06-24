@@ -1,6 +1,6 @@
 {
     "name":        "typopro-web",
-    "version":     "3.7.9",
+    "version":     "4.0.0",
     "description": "Fonts for Professional Typography (WEB)",
     "homepage":    "https://github.com/rse/typopro-web",
     "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
@@ -20,15 +20,19 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies": {
-        "promise":   "8.0.1",
-        "request":   "2.87.0",
-        "sprintfjs": "1.2.9",
-        "tar":       "4.4.4",
-        "mkdirp":    "0.5.1",
-        "rimraf":    "2.6.2"
+        "npm-install-fetch":  "1.0.0",
+        "shx":                "0.3.0"
     },
     "scripts": {
-        "install":   "node ./typopro-npm.js install",
-        "uninstall": "node ./typopro-npm.js uninstall"
+        "install":            "npm-install-fetch",
+        "uninstall":          "shx rm -rf web"
+    },
+    "npm-install-fetch": {
+        "name":    "TypoPRO: Fonts for Professional Typography (WEB) 4.0.0",
+        "input":   "https://github.com/rse/typopro-web/archive/4.0.0.tar.gz",
+        "extract": true,
+        "strip":   1,
+        "filter":  [ "web/*" ],
+        "output":  "."
     }
 }
