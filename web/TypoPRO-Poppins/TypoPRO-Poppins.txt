@@ -1,7 +1,8 @@
 Name:       Poppins
 Homepage:   https://www.indiantypefoundry.com/fonts/poppins
 Download:   https://github.com/itfoundry/Poppins
-Version:    4.001 (2018-03)
+Download:   https://github.com/google/fonts/tree/master/ofl/poppins
+Version:    4.003 (2019-04)
 License:    Open Font License 1.1
 Publisher:  IT Foundry
 Designer:   Ninad Kale, Jonny Pinhorn
