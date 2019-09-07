@@ -1,4 +1,19 @@
 
+/* TypoPRO Pacifico Bold */
+@font-face {
+    font-family:  'TypoPRO Pacifico';
+    src:          url('TypoPRO-Pacifico-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Pacifico-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Pacifico-Bold.woff') format('woff'),
+                  url('TypoPRO-Pacifico-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Pacifico Normal */
 @font-face {
     font-family:  'TypoPRO Pacifico';
