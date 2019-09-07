@@ -1,7 +1,7 @@
 Name:       Literata
 Homepage:   https://www.fontsquirrel.com/fonts/literata-book
 Download:   https://github.com/googlefonts/literata
-Version:    2.100 (2018-12)
+Version:    2.200 (2019-06)
 License:    Open Font License
 Publisher:  Veronika Burian, Jose Scaglione
 Designer:   Veronika Burian, Jose Scaglione

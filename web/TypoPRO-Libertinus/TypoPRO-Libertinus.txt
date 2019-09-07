@@ -1,7 +1,7 @@
 Name:       Libertinus
 Homepage:   https://github.com/libertinus-fonts/libertinus
 Download:   https://github.com/libertinus-fonts/libertinus
-Version:    6.8 (2019-04)
+Version:    6.10 (2019-07)
 License:    Open Font License
 Publisher:  Philipp H. Poll et al.
 Designer:   Philipp H. Poll et al.

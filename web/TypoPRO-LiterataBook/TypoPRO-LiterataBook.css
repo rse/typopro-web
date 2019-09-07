@@ -1,5 +1,5 @@
 
-/* TypoPRO Literata Book Bold */
+/* TypoPRO Literata Bold */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-Bold.eot');
@@ -14,7 +14,7 @@
 }
 
 
-/* TypoPRO Literata Book Bold Italic */
+/* TypoPRO Literata Bold Italic */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-BoldItalic.eot');
@@ -29,22 +29,7 @@
 }
 
 
-/* TypoPRO Literata Book Italic */
-@font-face {
-    font-family:  'TypoPRO Literata Book';
-    src:          url('TypoPRO-LiterataBook-Italic.eot');
-    src:          local('*'),
-                  url('TypoPRO-LiterataBook-Italic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-LiterataBook-Italic.woff') format('woff'),
-                  url('TypoPRO-LiterataBook-Italic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Literata Book Medium */
+/* TypoPRO Literata Medium */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-Medium.eot');
@@ -59,7 +44,7 @@
 }
 
 
-/* TypoPRO Literata Book Medium Italic */
+/* TypoPRO Literata Medium Italic */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-MediumItalic.eot');
@@ -74,7 +59,7 @@
 }
 
 
-/* TypoPRO Literata Book Regular */
+/* TypoPRO Literata Regular */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-Regular.eot');
@@ -89,7 +74,22 @@
 }
 
 
-/* TypoPRO Literata Book SemiBold */
+/* TypoPRO Literata Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Semibold */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-Semibold.eot');
@@ -104,7 +104,7 @@
 }
 
 
-/* TypoPRO Literata Book SemiBold Italic */
+/* TypoPRO Literata Semibold Italic */
 @font-face {
     font-family:  'TypoPRO Literata Book';
     src:          url('TypoPRO-LiterataBook-SemiboldItalic.eot');
