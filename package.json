@@ -1,11 +1,11 @@
 {
     "name":        "typopro-web",
-    "version":     "4.2.0",
+    "version":     "4.2.1",
     "description": "TypoPRO: Fonts for Professional Typography (WEB)",
     "homepage":    "https://github.com/rse/typopro-web",
     "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
     "author": {
-        "name":    "Ralf S. Engelschall",
+        "name":    "Dr. Ralf S. Engelschall",
         "email":   "rse@engelschall.com",
         "url":     "http://engelschall.com"
     },
