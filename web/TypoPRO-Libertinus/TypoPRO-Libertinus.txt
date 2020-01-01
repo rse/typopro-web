@@ -1,6 +1,6 @@
 Name:       Libertinus
-Homepage:   https://github.com/libertinus-fonts/libertinus
-Download:   https://github.com/libertinus-fonts/libertinus
+Homepage:   https://github.com/alif-type/libertinus
+Download:   https://github.com/alif-type/libertinus
 Version:    6.10 (2019-07)
 License:    Open Font License
 Publisher:  Philipp H. Poll et al.
