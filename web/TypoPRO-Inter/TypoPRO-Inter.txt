@@ -1,7 +1,7 @@
 Name:       Inter
 Homepage:   https://rsms.me/inter/
 Download:   https://github.com/rsms/inter
-Version:    3.9 (2019-08)
+Version:    3.13 (2020-04)
 License:    Open Font License
 Publisher:  Rasmus
 Designer:   Rasmus
