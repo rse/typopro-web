@@ -3,8 +3,8 @@ Homepage:   https://juliamono.netlify.app/
 Download:   https://github.com/cormullion/juliamono/
 Version:    0.018 (2020-10)
 License:    Open Font License
-Publisher:  Jeff Bezanson
-Designer:   Jeff Bezanson
+Publisher:  Cormullion
+Designer:   Cormullion
 Designed:   2020
 Derivation: none
 
