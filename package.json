@@ -20,8 +20,8 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies": {
-        "npm-install-fetch":  "1.2.5",
-        "shx":                "0.3.2"
+        "npm-install-fetch":  "1.2.6",
+        "shx":                "0.3.3"
     },
     "scripts": {
         "install":            "npm-install-fetch",
