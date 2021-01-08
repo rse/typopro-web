@@ -1,7 +1,7 @@
 Name:       Source Sans Pro
 Homepage:   http://adobe.github.io/source-serif-pro/
 Download:   https://github.com/adobe-fonts/source-serif-pro
-Version:    3.000 (2019-06)
+Version:    3.001 (2019-10)
 License:    Open Font License 1.1
 Publisher:  Adobe
 Designer:   Frank Grießhammer
