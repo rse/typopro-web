@@ -8,7 +8,7 @@
                   url('TypoPRO-NXBaskerville-BoldItalic.woff') format('woff'),
                   url('TypoPRO-NXBaskerville-BoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  normal;
+    font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }

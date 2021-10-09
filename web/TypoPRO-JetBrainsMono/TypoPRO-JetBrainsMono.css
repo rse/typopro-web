@@ -179,6 +179,36 @@
 }
 
 
+/* TypoPRO JetBrains Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO JetBrains Mono Thin */
 @font-face {
     font-family:  'TypoPRO JetBrains Mono';
@@ -384,6 +414,36 @@
                   url('TypoPRO-JetBrainsMonoNL-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL SemiBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
