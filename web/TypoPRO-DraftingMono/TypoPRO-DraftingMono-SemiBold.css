@@ -1,0 +1,15 @@
+
+/* TypoPRO Drafting* Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO Drafting Mono';
+    src:          url('TypoPRO-DraftingMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-DraftingMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DraftingMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-DraftingMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

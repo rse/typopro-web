@@ -1,0 +1,15 @@
+
+/* TypoPRO Google Sans Flex 9pt Black */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Black.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

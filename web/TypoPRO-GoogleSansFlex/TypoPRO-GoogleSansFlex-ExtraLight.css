@@ -1,0 +1,15 @@
+
+/* TypoPRO Google Sans Flex 9pt ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Brass Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Brass Mono';
+    src:          url('TypoPRO-BrassMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-BrassMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

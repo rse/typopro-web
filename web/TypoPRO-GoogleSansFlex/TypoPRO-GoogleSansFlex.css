@@ -1,0 +1,135 @@
+
+/* TypoPRO Google Sans Flex 9pt Black */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Black.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt Bold */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Bold.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt Light */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Light.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt Medium */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Medium.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt Regular */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Regular.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt SemiBold */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-SemiBold.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Google Sans Flex 9pt Thin */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Thin.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

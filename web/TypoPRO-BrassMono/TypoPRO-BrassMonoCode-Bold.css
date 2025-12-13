@@ -1,0 +1,15 @@
+
+/* TypoPRO Brass Mono Code Bold */
+@font-face {
+    font-family:  'TypoPRO Brass Mono Code';
+    src:          url('TypoPRO-BrassMonoCode-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMonoCode-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMonoCode-Bold.woff') format('woff'),
+                  url('TypoPRO-BrassMonoCode-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

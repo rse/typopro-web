@@ -1,0 +1,15 @@
+
+/* TypoPRO Google Sans Flex 9pt Thin */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Thin.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

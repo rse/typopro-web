@@ -1,0 +1,120 @@
+
+/* TypoPRO Brass Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Brass Mono';
+    src:          url('TypoPRO-BrassMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMono-Bold.woff') format('woff'),
+                  url('TypoPRO-BrassMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Brass Mono';
+    src:          url('TypoPRO-BrassMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-BrassMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Italic */
+@font-face {
+    font-family:  'TypoPRO Brass Mono';
+    src:          url('TypoPRO-BrassMono-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMono-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMono-Italic.woff') format('woff'),
+                  url('TypoPRO-BrassMono-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Regular */
+@font-face {
+    font-family:  'TypoPRO Brass Mono';
+    src:          url('TypoPRO-BrassMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMono-Regular.woff') format('woff'),
+                  url('TypoPRO-BrassMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Code Bold */
+@font-face {
+    font-family:  'TypoPRO Brass Mono Code';
+    src:          url('TypoPRO-BrassMonoCode-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMonoCode-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMonoCode-Bold.woff') format('woff'),
+                  url('TypoPRO-BrassMonoCode-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Code Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Brass Mono Code';
+    src:          url('TypoPRO-BrassMonoCode-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMonoCode-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMonoCode-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-BrassMonoCode-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Code Italic */
+@font-face {
+    font-family:  'TypoPRO Brass Mono Code';
+    src:          url('TypoPRO-BrassMonoCode-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMonoCode-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMonoCode-Italic.woff') format('woff'),
+                  url('TypoPRO-BrassMonoCode-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Brass Mono Code Regular */
+@font-face {
+    font-family:  'TypoPRO Brass Mono Code';
+    src:          url('TypoPRO-BrassMonoCode-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-BrassMonoCode-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BrassMonoCode-Regular.woff') format('woff'),
+                  url('TypoPRO-BrassMonoCode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

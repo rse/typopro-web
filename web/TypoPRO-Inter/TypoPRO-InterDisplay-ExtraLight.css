@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Display ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

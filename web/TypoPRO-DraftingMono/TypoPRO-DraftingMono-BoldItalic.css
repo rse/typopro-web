@@ -1,0 +1,15 @@
+
+/* TypoPRO Drafting* Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Drafting Mono';
+    src:          url('TypoPRO-DraftingMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-DraftingMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DraftingMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-DraftingMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

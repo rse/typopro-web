@@ -1,0 +1,15 @@
+
+/* TypoPRO Drafting* Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Drafting Mono';
+    src:          url('TypoPRO-DraftingMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-DraftingMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DraftingMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-DraftingMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

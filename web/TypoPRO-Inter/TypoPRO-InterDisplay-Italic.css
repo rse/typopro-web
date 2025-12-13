@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Display Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Italic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Drafting* Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Drafting Mono';
+    src:          url('TypoPRO-DraftingMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-DraftingMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DraftingMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-DraftingMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

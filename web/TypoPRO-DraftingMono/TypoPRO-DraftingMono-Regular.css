@@ -1,0 +1,15 @@
+
+/* TypoPRO Drafting* Mono Regular */
+@font-face {
+    font-family:  'TypoPRO Drafting Mono';
+    src:          url('TypoPRO-DraftingMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-DraftingMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DraftingMono-Regular.woff') format('woff'),
+                  url('TypoPRO-DraftingMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

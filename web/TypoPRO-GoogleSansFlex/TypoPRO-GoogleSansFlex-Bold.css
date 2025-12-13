@@ -1,0 +1,15 @@
+
+/* TypoPRO Google Sans Flex 9pt Bold */
+@font-face {
+    font-family:  'TypoPRO Google Sans Flex';
+    src:          url('TypoPRO-GoogleSansFlex-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GoogleSansFlex-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GoogleSansFlex-Bold.woff') format('woff'),
+                  url('TypoPRO-GoogleSansFlex-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Display ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

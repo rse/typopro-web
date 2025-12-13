@@ -1,0 +1,15 @@
+
+/* TypoPRO Drafting* Mono ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Drafting Mono';
+    src:          url('TypoPRO-DraftingMono-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-DraftingMono-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DraftingMono-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-DraftingMono-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
