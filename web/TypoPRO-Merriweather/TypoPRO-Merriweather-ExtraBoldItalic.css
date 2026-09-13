@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 24pt ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

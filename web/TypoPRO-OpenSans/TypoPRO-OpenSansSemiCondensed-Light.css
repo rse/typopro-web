@@ -1,0 +1,15 @@
+
+/* TypoPRO Open Sans SemiCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

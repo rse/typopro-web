@@ -1,0 +1,15 @@
+
+/* TypoPRO Nebula Sans Semibold */
+@font-face {
+    font-family:  'TypoPRO Nebula Sans';
+    src:          url('TypoPRO-NebulaSans-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NebulaSans-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NebulaSans-Semibold.woff') format('woff'),
+                  url('TypoPRO-NebulaSans-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

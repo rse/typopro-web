@@ -1,0 +1,15 @@
+
+/* TypoPRO Nebula Sans Book Italic */
+@font-face {
+    font-family:  'TypoPRO Nebula Sans';
+    src:          url('TypoPRO-NebulaSans-BookItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NebulaSans-BookItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NebulaSans-BookItalic.woff') format('woff'),
+                  url('TypoPRO-NebulaSans-BookItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

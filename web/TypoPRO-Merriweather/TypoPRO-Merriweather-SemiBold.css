@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 24pt SemiBold */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

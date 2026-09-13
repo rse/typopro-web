@@ -1,0 +1,15 @@
+
+/* TypoPRO Open Sans Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

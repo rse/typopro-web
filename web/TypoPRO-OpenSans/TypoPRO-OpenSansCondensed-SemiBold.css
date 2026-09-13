@@ -1,0 +1,15 @@
+
+/* TypoPRO Open Sans Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

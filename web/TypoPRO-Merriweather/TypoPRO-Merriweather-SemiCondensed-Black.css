@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 24pt SemiCondensed Black */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensed-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensed-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensed-Black.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensed-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

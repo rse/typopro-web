@@ -1,0 +1,15 @@
+
+/* TypoPRO Nebula Sans Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Nebula Sans';
+    src:          url('TypoPRO-NebulaSans-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NebulaSans-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NebulaSans-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-NebulaSans-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

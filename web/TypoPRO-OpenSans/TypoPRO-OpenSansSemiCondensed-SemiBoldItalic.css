@@ -1,0 +1,15 @@
+
+/* TypoPRO Open Sans SemiCondensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

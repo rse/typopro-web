@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 24pt SemiCondensed Medium */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

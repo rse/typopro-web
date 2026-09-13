@@ -1,0 +1,15 @@
+
+/* TypoPRO Nebula Sans Light Italic */
+@font-face {
+    font-family:  'TypoPRO Nebula Sans';
+    src:          url('TypoPRO-NebulaSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NebulaSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NebulaSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-NebulaSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

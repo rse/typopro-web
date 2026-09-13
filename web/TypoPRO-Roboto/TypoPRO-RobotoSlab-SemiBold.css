@@ -1,0 +1,15 @@
+
+/* TypoPRO Roboto Slab SemiBold */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-SemiBold.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

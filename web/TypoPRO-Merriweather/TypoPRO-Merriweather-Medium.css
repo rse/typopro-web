@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 24pt Medium */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-Medium.woff') format('woff'),
+                  url('TypoPRO-Merriweather-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

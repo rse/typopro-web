@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 24pt SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

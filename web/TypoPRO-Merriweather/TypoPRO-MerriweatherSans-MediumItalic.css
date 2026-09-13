@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Merriweather Sans';
+    src:          url('TypoPRO-MerriweatherSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MerriweatherSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MerriweatherSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-MerriweatherSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

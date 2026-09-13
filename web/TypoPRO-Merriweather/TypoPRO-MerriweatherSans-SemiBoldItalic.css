@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather Sans SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Merriweather Sans';
+    src:          url('TypoPRO-MerriweatherSans-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MerriweatherSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MerriweatherSans-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-MerriweatherSans-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

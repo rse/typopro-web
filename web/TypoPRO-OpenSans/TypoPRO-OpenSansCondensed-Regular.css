@@ -1,0 +1,15 @@
+
+/* TypoPRO Open Sans Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
